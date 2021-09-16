@@ -1,0 +1,42 @@
+body {
+  background-color: #cee5d0;
+}
+
+
+h1 {
+  color: black;
+
+}
+
+textarea {
+  background-color: white;
+  color: grey;
+  margin: 20 auto;
+}
+
+button {
+  width: 25rem;
+  background-color: yellow;
+  font-family: cursive;;
+
+}
+
+/* **************** Part II of Assignemnt II ****************** */
+body.partIIBody{
+  background-color: grey;
+  text-align: center;
+  color: white;
+}
+
+button.partIIButton {
+  display: block;
+
+  height: 100px;
+  width: 100px;
+  justify-content: center;
+  background-color: white; 
+}
+
+h1.partIIHeader {
+  color: white;
+}
